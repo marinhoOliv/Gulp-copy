@@ -1,0 +1,25 @@
+{
+  "name": "Gulp-copy",
+  "version": "1.0.0",
+  "description": "cli travis",
+  "main": "gulpfile.js",
+  "scripts": {
+    "start": "node_modules/.bin/gulp default",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marinhoOliv/Gulp-copy.git"
+  },
+  "keywords": [],
+  "author": "mario oliveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marinhoOliv/Gulp-copy.git/issues"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-image": "^2.10.0",
+    "gulp-plumber": "^1.1.0"
+  }
+}
