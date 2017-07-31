@@ -1,5 +1,7 @@
 # Gulp copy
 
+![Travis CI](https://travis-ci.org/marinhoOliv/Gulp-copy.svg?branch=master)
+
 ### Setup
 
 1. Make a sure you have [Nodejs](https://nodejs.org/en//) and [Npm](https://www.npmjs.com/) installed.
