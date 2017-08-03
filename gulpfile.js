@@ -49,7 +49,6 @@ gulp.task('images-optimize', function () {
         .pipe(plumber({
             handleError: function (error) {
                 console.log(error);
-                this.emit('end');
             }
         }))
         .pipe(plumber.stop())
