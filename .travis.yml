@@ -1,8 +1,7 @@
 language: node_js
 node_js:
-  - "0.6"
-before_script:
-  - npm install -g gulp
-  - npm install gulp-image
-  - npm install gulp-plumber
-  - gulp
+  - "7"
+  - "6"
+  - "4"
+  - "0.12"
+  - "0.10"
