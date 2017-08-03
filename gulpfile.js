@@ -52,6 +52,7 @@ gulp.task('images-optimize', function () {
                 this.emit('end');
             }
         }))
+        .pipe(plumber.stop())
         .pipe(gulp.dest(images.out));
 });
 
