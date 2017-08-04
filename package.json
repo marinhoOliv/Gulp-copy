@@ -4,8 +4,7 @@
   "description": "cli travis",
   "main": "gulpfile.js",
   "scripts": {
-    "start": "node_modules/.bin/gulp default",
-    "test": "./gulpfile.js"
+    "test": "tap test/*.js"
   },
   "repository": {
     "type": "git",
