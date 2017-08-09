@@ -4,8 +4,8 @@
   "description": "cli travis",
   "main": "gulpfile.js",
   "scripts": {
-    "test": "test/*.js"
-  },
+		"test": "gulp"
+	},
   "repository": {
     "type": "git",
     "url": "git+https://github.com/marinhoOliv/Gulp-copy.git"
